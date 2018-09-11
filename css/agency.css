@@ -751,7 +751,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   height: 32px;
 }
 
-@media (min-width: 480px) {
+@media (min-width: 767px) {
   header.masthead .intro-text {
     padding-top: 300px;
     padding-bottom: 200px;
